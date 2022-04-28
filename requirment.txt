@@ -1,1 +1,9 @@
-
+scikit-learn==0.23.1
+datetime
+sklearn==0.0
+numpy==1.19.0
+pandas==1.4.2
+joblib==0.15.1
+seaborn==0.11.2
+matplotlib==3.1
+tkinter==8.6.12
